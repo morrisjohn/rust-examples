@@ -1,0 +1,1 @@
+/home/scipio/Desktop/Rust2022/rust\ examples/name_tag/target/debug/name_tag: /home/scipio/Desktop/Rust2022/rust\ examples/name_tag/src/lib.rs /home/scipio/Desktop/Rust2022/rust\ examples/name_tag/src/main.rs
